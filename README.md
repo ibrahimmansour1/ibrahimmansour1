@@ -20,6 +20,8 @@ Most of what I ship lives in private repositories. A sample of what I built and 
 
 **Market** — two-sided marketplace with separate client and worker experiences sharing one codebase. Real-time chat, push notifications, Cloud Functions for server-side logic, and Firestore security rules written to enforce role boundaries at the data layer rather than in the UI.
 
+**POS** — point-of-sale app for retail, built end to end. A shared `core` layer carrying its own dependency-injection container, networking and typed error handling, with seven feature modules composed on top: authentication, home, cart, navigation shell, settings, splash and welcome.
+
 **Murafiq** — multi-role logistics app split into shared internal packages, so customer and driver builds reuse one domain layer instead of diverging.
 
 **Greenz** — grocery delivery as three coordinated apps: customer ordering, driver dispatch and store pickup, sharing a common domain model across the fleet.
