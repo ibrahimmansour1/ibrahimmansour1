@@ -2,7 +2,7 @@
 
 📍 Cairo, Egypt
 
-I build and ship cross-platform mobile apps with Flutter — 25+ apps for 13+ clients across fintech, delivery, travel, retail and education. On most of them I was the primary developer, owning the app end to end: architecture, implementation, test strategy and release automation.
+I build and ship cross-platform mobile apps with Flutter — 20+ apps delivered, 7 live on the App Store and Google Play, across fintech, delivery, travel, retail and education. On most of them I was the primary developer, owning the app end to end: architecture, implementation, test strategy and release automation.
 
 #### 📱 Shipped
 
